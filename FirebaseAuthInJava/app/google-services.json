@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "133103388548",
+    "firebase_url": "https://fir-authenticationjava.firebaseio.com",
+    "project_id": "fir-authenticationjava",
+    "storage_bucket": "fir-authenticationjava.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133103388548:android:a987a9b4ae33d4c1a4bfd1",
+        "android_client_info": {
+          "package_name": "com.android.firebaseauthinjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133103388548-8q0eqg8falfnobroorq8ft1066iaaq77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdANqkV9ZpfWYQ9vieJI0aO-yNTRvQsFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133103388548-8q0eqg8falfnobroorq8ft1066iaaq77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
